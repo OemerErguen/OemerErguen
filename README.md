@@ -1,8 +1,7 @@
 ### Hi, I'm Ömer 👋
 
 Full-Stack Engineer from Stuttgart — currently at Diconium, working on
-frontend development and end-to-end test automation with Playwright at
-**TRUMPF SE**.
+frontend development and end-to-end test automation.
 
 ---
 
